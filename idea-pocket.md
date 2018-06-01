@@ -1,4 +1,4 @@
-# MOSAD end-of-term task
+# MOSAD Final Project
 
 IDEAS part, @Team **ZgenY an Gyak**
 

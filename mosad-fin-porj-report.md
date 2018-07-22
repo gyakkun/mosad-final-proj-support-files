@@ -104,9 +104,13 @@ Scene0~6.cpp/h - 游戏场景/过场CG/结局CG
 
 ![1532271012774](.\markdown-rely\1532271012774.png)
 
-### 战斗
+### 战斗 - 1v1
 
 ![1532274252909](.\markdown-rely\1532274252909.png)
+
+### 战斗 - 多人 (小兵)
+
+![img](file:///E:\[ToBak]\Documents\Tencent Files\1170126268\Image\Group\Image7\~}G_8ZNZPQ8QVO_M38_{5FF.jpg) 
 
 ### 战败
 
